@@ -1,5 +1,7 @@
 # sharp-blockhash
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andyhu/sharp-blockhash.svg)](https://greenkeeper.io/)
+
 Image perceptual hash calculation with sharp and blockhash. Used to compare similar images.
 
 # Usage:
