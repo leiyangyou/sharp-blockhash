@@ -35,8 +35,8 @@
     "png-js": "^0.1.1"
   },
   "dependencies": {
-    "blockhash": "^0.2.0",
+    "blockhash": "git+https://github.com/leiyangyou/blockhash-js.git",
     "bluebird": "^3.5.0",
-    "sharp": "^0.20.5"
+    "sharp": "^0.21.1"
   }
 }
